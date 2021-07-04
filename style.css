@@ -9,6 +9,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -27,3 +28,7 @@ half width img{
     background-image: url(downlod.png);
     background-repeat:no-repeat ;
 }
+.dream-big{
+    background-image: url(downlod.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
